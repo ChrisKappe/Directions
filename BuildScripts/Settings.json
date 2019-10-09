@@ -1,5 +1,17 @@
 {
+
     "ContainerName": "bcbuild",
     "ContainerImage": "mcr.microsoft.com/businesscentral/onprem",
-    "ContainerLicFile": "C:\\temp\\lic.flf"
+    "ContainerLicFile": "C:\\temp\\lic.flf",
+
+    "TestAppsToProcess": [
+        {
+            "ApplicationId": "TestApp1",
+            "ApplicationName": "TestApp1",
+            "AppRepository": "https://kbialowas.visualstudio.com/Directions%20EMEA%20public/_git/Direction%20EMEA%20public%20AT",
+            "AppRepositoryBranch": "master" 
+        }
+
+    ]
+
 }
