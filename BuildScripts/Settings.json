@@ -1,0 +1,5 @@
+{
+    "ContainerName": "bcbuild",
+    "ContainerImage": "mcr.microsoft.com/businesscentral/onprem",
+    "ContainerLicFile": "C:\\temp\\lic.flf"
+}
