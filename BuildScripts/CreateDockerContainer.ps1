@@ -24,11 +24,11 @@ New-NavContainer @parameters `
                 -Credential $credential `
                 -alwaysPull `
                 -updateHosts `
-                -includeCSide `
                 -doNotExportObjectsToText `
                 -assignPremiumPlan `
                 -enableSymbolLoading `
                 -includeTestToolkit `
+                -includeTestLibrariesOnly `
                 -accept_outdated `
                 -shortcuts None `
                 -licenseFile "$ContainerLicFile" `
