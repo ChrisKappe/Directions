@@ -26,7 +26,6 @@ New-NavContainer @parameters `
                 -updateHosts `
                 -doNotExportObjectsToText `
                 -assignPremiumPlan `
-                -enableSymbolLoading `
                 -includeTestToolkit `
                 -includeTestLibrariesOnly `
                 -accept_outdated `
