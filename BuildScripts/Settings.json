@@ -1,7 +1,7 @@
 {
 
     "ContainerName": "bcbuild",
-    "ContainerImage": "mcr.microsoft.com/businesscentral/onprem",
+    "ContainerImage": "mcr.microsoft.com/businesscentral/onprem:dk",
     "ContainerLicFile": "C:\\temp\\lic.flf",
 
     "TestAppsToProcess": [
